@@ -2,11 +2,11 @@ var app = angular.module('myApp',[]);
 app.controller('myController', function($scope) {
 	$scope.abm = "Xin Chào";
 	$scope.updateInfo = "Cám ơn đã ghé qua cái web nho nhỏ của mình 😘";
-	$scope.verify = "Nhím";
+	$scope.verify = "Bé Nhím";
 	$scope.des = "Mình yêu tận 10 anh đó nha , ai cần ib Facebook mình nè !";
 	$scope.cv = "Giới Thiệu";
 	$scope.job1 = "Học sinh";
-	$scope.job2 = "Tiktoker";
+	$scope.job2 = "Tiktoker Pro Vip";
 	$scope.contact = "Thông Tin";
 	$scope.contact1 = "Facebook: Trần Thị Mai Phương";
 	$scope.contact2 = "Instagram: phuong_6124";
