@@ -1,7 +1,7 @@
 var app = angular.module('myApp',[]);
 app.controller('myController', function($scope) {
-	$scope.abm = "Chào Mừng";
-	$scope.updateInfo = "Đang cập nhật";
+	$scope.abm = "Xin Chào";
+	$scope.updateInfo = "Cám ơn đã ghé qua cáu web nho nhỏ chuae mình 😘";
 	$scope.verify = "Takeshi";
 	$scope.des = "Anime Fan !";
 	$scope.cv = "Giới Thiệu";
