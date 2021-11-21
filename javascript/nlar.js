@@ -19,7 +19,7 @@ app.controller('myController', function($scope) {
 	$scope.modal5 = "Số điện thoại";
 	$scope.linkfb = "https://www.facebook.com/ttmp.6124";
 	$scope.linkzl = "https://www.facebook.com/ttmp.6124";
-	$scope.linksc = "https://www.facebook.com/ttmp.6124";
+	$scope.linksc = "https://www.messenger.com/t/100027700523833/";
 	$scope.linkgm = "https://www.facebook.com/ttmp.6124";
 	$scope.phonenumber = "0123456789";
 	$scope.email = "phuong@gmail.com";
