@@ -18,7 +18,7 @@ app.controller('myController', function($scope) {
 	$scope.modal4 = "Email";
 	$scope.modal5 = "Số điện thoại";
 	$scope.linkfb = "https://www.facebook.com/ttmp.6124";
-	$scope.linkzl = "";
+	$scope.linkzl = "m.me/ttmp.6124";
 	$scope.linksc = "m.me/ttmp.6124";
 	$scope.linkgm = "m.me/ttmp.6124";
 	$scope.phonenumber = "Đang cập nhật";
