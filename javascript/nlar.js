@@ -1,9 +1,9 @@
 var app = angular.module('myApp',[]);
 app.controller('myController', function($scope) {
 	$scope.abm = "HELLO";
-	$scope.updateInfo = "Mình yêu tận 10 anh đó nha , ai cần ib Facebook mình nè !";
+	$scope.updateInfo = "Độc toàn thân, anh nào chưa niu ib mess ting 2s rep nhé!";
 	$scope.verify = "Bé Nhím";
-	$scope.des = "Tiktoker Pro Vip";
+	$scope.des = "iu tất cả các anh!!";
 	$scope.cv = "Giới Thiệu";
 	$scope.job1 = "Facebook: Trần Thị Mai Phương";
 	$scope.job2 = "Instagram: ttmp_6124";
