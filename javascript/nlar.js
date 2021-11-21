@@ -17,12 +17,11 @@ app.controller('myController', function($scope) {
 	$scope.modal3 = "Tiktok";
 	$scope.modal4 = "Email";
 	$scope.modal5 = "Số điện thoại";
-	$scope.linkfb = "https://www.facebook.com/ttmp.6124";
-	$scope.linkzl = "https://www.messenger.com/t/100027700523833/";
-	$scope.linksc = "https://vt.tiktok.com/ZSeBSKyLN/";
-	$scope.linkgm = "";
-	$scope.phonenumber = "0123456789";
-	$scope.email = "phuong@gmail.com";
+	$scope.link1 = "https://www.facebook.com/ttmp.6124";
+	$scope.link2 = "https://www.messenger.com/t/100027700523833/";
+	$scope.link3 = "https://vt.tiktok.com/ZSeBSKyLN/";
+	$scope.button4 = "phuong@gmail.com";
+	$scope.button5 = "0123456789";
 	$scope.title2 = "Câu chuyện của tôi";
 	$scope.contentStory1 = "Đang cập nhật...";
 	$scope.contentStory2 = "Đang cập nhật...";
