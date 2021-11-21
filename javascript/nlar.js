@@ -17,10 +17,10 @@ app.controller('myController', function($scope) {
 	$scope.modal3 = "Messenger";
 	$scope.modal4 = "Email";
 	$scope.modal5 = "Số điện thoại";
-	$scope.linkfb = "https://www.facebook.com/profile.php?id=100027700523833";
+	$scope.linkfb = "https://www.facebook.com/ttmp.6124";
 	$scope.linkzl = "";
-	$scope.linksc = "m.me/100027700523833";
-	$scope.linkgm = "takeshi@gmail.com";
+	$scope.linksc = "m.me/ttmp.6124";
+	$scope.linkgm = "m.me/ttmp.6124";
 	$scope.phonenumber = "Đang cập nhật";
 	$scope.email = "maiphuong@gmail.com";
 	$scope.title2 = "Câu chuyện của tôi";
