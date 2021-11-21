@@ -30,7 +30,7 @@ app.controller('myController', function($scope) {
 	$scope.storytitle2 = "Chủ đề 2";
 	$scope.nothinglikeus = "Tác giả: ?";
 	$scope.thankall = "Cảm ơn mọi người ";
-	$scope.au = "Takeshi";
+	$scope.au = "Đừng bấm vào đây nha!";
 	$scope.phone = false;
 	$scope.reverse = function () {
 		$scope.phone= !$scope.phone;
