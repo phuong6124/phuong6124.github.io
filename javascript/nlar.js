@@ -9,7 +9,7 @@ app.controller('myController', function($scope) {
 	$scope.job2 = "Instagram: ttmp_6124";
 	$scope.contact = "Thông Tin";
 	$scope.contact1 = "IDFF: 1953684607";
-	$scope.contact2 = "VCB: 1020860829";
+	$scope.contact2 = "MBbank: 0822864778";
 	$scope.contactmi = " Thông Tin Liên Hệ";
 	$scope.ifyou = "Mọi người có ghé vào thì cho mình xin 1 follow nha. Cám ơn nè !";
 	$scope.modal1 = "Facebook";
