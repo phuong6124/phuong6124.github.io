@@ -6,7 +6,7 @@ app.controller('myController', function($scope) {
 	$scope.des = "iu tất cả các anh!!";
 	$scope.cv = "Giới Thiệu";
 	$scope.job1 = "Fb: Trần Thị Mai Phương";
-	$scope.job2 = "06-10-2024";
+	$scope.job2 = "06-10-2004";
 	$scope.contact = "Thông Tin";
 	$scope.contact1 = "IDFF: 1953684607";
 	$scope.contact2 = "MBbank: 0822864778";
