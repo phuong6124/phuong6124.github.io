@@ -1,12 +1,12 @@
 var app = angular.module('myApp',[]);
 app.controller('myController', function($scope) {
 	$scope.abm = "HELLO";
-	$scope.updateInfo = "Độc toàn thân, các anh ib mess ting 2s rep nhé!";
+	$scope.updateInfo = "Xin chào!";
 	$scope.verify = "Nhím";
 	$scope.des = "iu tất cả các anh!!";
 	$scope.cv = "Giới Thiệu";
-	$scope.job1 = "Facebook: Trần Thị Mai Phương";
-	$scope.job2 = "Instagram: ttmp_6124";
+	$scope.job1 = "Fb: Trần Thị Mai Phương";
+	$scope.job2 = "06-10-2024";
 	$scope.contact = "Thông Tin";
 	$scope.contact1 = "IDFF: 1953684607";
 	$scope.contact2 = "MBbank: 0822864778";
